@@ -31,3 +31,9 @@
 | 1   |    Decision Tree    |  ใช้ข้อมูลทั้งหมดเลย (Imbalanced)  | 70% = Class 0: 139 rows, Class 1: 70 rows |  30% = Class 0: 64 rows, Class 1: 26 rows | - | 80% | Class 0: 88%, Class 1: 63% | Class 0: 83%, Class 1: 73%  | Class 0: 85%, Class 1: 68%  | 78%
 | 2   |   Random Forest    |  ใช้ข้อมูลทั้งหมดเลย (Imbalanced)  | 70% = Class 0: 139 rows, Class 1: 70 rows |  30% = Class 0: 64 rows, Class 1: 26 rows | ใช้จำนวน estimators = 78 | 90% | Class 0: 94%, Class 1: 81% | Class 0: 92%, Class 1: 85%  | Class 0: 93%, Class 1: 83%  | 94%
 | 3   |   XGBoost    |  ใช้ข้อมูลทั้งหมดเลย (Imbalanced)  | 70% = Class 0: 139 rows, Class 1: 70 rows |  30% = Class 0: 64 rows, Class 1: 26 rows | - | 88% | Class 0: 93%, Class 1: 76% | Class 0: 89%, Class 1: 85%  | Class 0: 91%, Class 1: 80%  | 93%
+
+
+- Feature Importance from Random Forest
+<p align="center">
+    <img src="https://github.com/mill-ornrakorn/Heart-Failure-Prediction/blob/main/pic%20for%20readme/FeatureImportance.png?raw=true" alt= "Feature Importance" >
+</p>
