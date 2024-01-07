@@ -22,6 +22,38 @@
     <img src="https://github.com/mill-ornrakorn/Heart-Failure-Prediction/blob/main/pic%20for%20readme/corr.png?raw=true" alt= "corr" >
 </p>
 
+</br>
+
+<details>
+    <summary>Dashboard (Click here)</summary>
+    <p align="center">
+        <img src="https://github.com/mill-ornrakorn/Heart-Failure-Prediction/blob/main/pic%20for%20readme/dashboard.png?raw=true" alt= "dashboard" >
+    </p>
+
+<details>
+    <summary>Dashboard filter by Class0 (Click here)</summary>
+    <p align="center">
+        <img src="https://github.com/mill-ornrakorn/Heart-Failure-Prediction/blob/main/pic%20for%20readme/dashboard_filterbyClass0.png?raw=true" alt= "dashboard_filterbyClass0" >
+    </p>
+
+
+</details>
+
+<details>
+    <summary>Dashboard filter by Class1 (Click here)</summary>
+    <p align="center">
+        <img src="https://github.com/mill-ornrakorn/Heart-Failure-Prediction/blob/main/pic%20for%20readme/dashboard_filterbyClass1.png?raw=true" alt= "dashboard_filterbyClass1" >
+    </p>
+
+
+</details>
+
+หมายเหตุ: ใน powerbi ไม่มี Histogram มาให้ แต่มีส่วนเสริมให้ใช้แทน อาจทำให้กราฟดูยากบ้าง การดู Dashboard เลยแนะนำให้เปิดไฟล์ของ powerbi ดู จะดูได้ง่ายกว่าแบบรูปนะคะ
+
+</details>
+
+</br>
+
 
 
 # 📝ตารางสรุปผล:
